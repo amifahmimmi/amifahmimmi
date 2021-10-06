@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @fahmiyansyah
-- 👀 I’m interested in 
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
+- 👀 I’m interested in information technology 
+- 🌱 I’m currently learning languages pemrograman
+- 💞️ I’m looking to collaborate on github
 - 📫 How to reach me ...
 
 <!---
